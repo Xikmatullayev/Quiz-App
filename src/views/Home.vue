@@ -1,12 +1,4 @@
 <template>
-  <div class="languages">
-    <router-link to="/uz">uz</router-link>
-    |
-    <router-link to="/" class="lang-active">en</router-link>
-    |
-    <router-link to="/ru">рус</router-link>
-  </div>
-
   <div class="container-app">
     <div class="container-quiz">
       <div class="quiz-header">
